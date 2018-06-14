@@ -5,4 +5,7 @@
 https://github.com/arXivTimes/arXivTimes のやり方を真似ます．
 
 ## ログ
-第一回：NAACL2018
+### 第一回：NAACL2018
+  Project: place_holder
+  
+  天使度/悪魔度 グラフ: http://linoit.com/users/nomoto_eriko/canvases/NAACL2018
