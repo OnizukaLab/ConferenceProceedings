@@ -16,7 +16,7 @@ ACL2018読み会のログ
   [issue](#) /
   [slide](#)
   - [Paraphrase to Explicate: Revealing Implicit Noun-Compound Relations](https://aclanthology.info/papers/P18-1111/p18-1111) /
-  [issue](#) /
+  [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/15) /
   [slide](#)
   - [Towards Robust Neural Machine Translation](https://aclanthology.info/papers/P18-1163/p18-1163) /
   [issue](#) /
