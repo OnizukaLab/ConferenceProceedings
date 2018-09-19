@@ -28,7 +28,7 @@ ACL2018読み会のログ
   [issue](#) /
   [slide](#)
   - [Style Transfer Through Back-Translation](https://aclanthology.info/papers/P18-1080/p18-1080) /
-  [issue](#) /
+  [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/23) /
   [slide](#)
   - [Fluency Boost Learning and Inference for Neural Grammatical Error Correction](https://aclanthology.info/papers/P18-1097/p18-1097) /
   [issue](#) /
