@@ -14,4 +14,4 @@ https://github.com/arXivTimes/arXivTimes のやり方を真似ます．
 ### 第一回：ACL2018 
  [論文リスト](https://github.com/OnizukaLab/ConferenceProceedings/blob/master/ACL2018log.md)
 
-[天使度/悪魔度 グラフ](http://linoit.com/users/nomoto_eriko/canvases/ACL2018)
+[天使度/悪魔度 グラフ](http://linoit.com/users/nomoto_eriko/canvases/ACL_2018)
