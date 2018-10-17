@@ -20,7 +20,7 @@ ACL2018読み会のログ
   [slide](#)
   - [On Adversarial Examples for Character-Level Neural Machine Translation](https://aclanthology.info/papers/C18-1055/c18-1055) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/29) /
-  [slide](#)
+  [slide](https://speakerdeck.com/onilab/on-adversarial-example-for-character-level-neural-machine-translation)
   - [Multi-Task Neural Models for Translating Between Styles Within and Across Languages](https://aclanthology.info/papers/C18-1086/c18-1086) /
   [issue](#) /
   [slide](#)
@@ -32,7 +32,7 @@ ACL2018読み会のログ
   [slide](#)
   - [Multimodal Grounding for Language Processing](https://aclanthology.info/papers/C18-1197/c18-1197) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/28) /
-  [slide](#)
+  [slide](https://speakerdeck.com/onilab/multimodal-grounding-for-language-processing)
   - [Modeling Multi-turn Conversation with Deep Utterance Aggregation](https://aclanthology.info/papers/C18-1317/c18-1317) /
   [issue](#) /
   [slide](#)
