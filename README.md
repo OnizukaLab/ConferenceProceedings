@@ -16,6 +16,6 @@ https://github.com/arXivTimes/arXivTimes のやり方を真似ます．
 [天使度/悪魔度 グラフ](http://linoit.com/users/nomoto_eriko/canvases/ACL_2018)
 
 ### 第三回：COLING2018 
- [論文リスト](#)
+ [論文リスト](https://github.com/OnizukaLab/ConferenceProceedings/blob/master/COLING2018log.md)
 
 [天使度/悪魔度 グラフ](http://linoit.com/users/tkym1220/canvases/COLING2018)
