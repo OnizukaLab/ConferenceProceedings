@@ -1,7 +1,7 @@
 ACL2018読み会のログ
 #### 論文リスト:
   - [Personalizing Lexical Simplification](https://aclanthology.info/papers/C18-1019/c18-1019) /
-  [issue](#) /
+  [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/27) /
   [slide](#)
   - [Convolutional Neural Network for Universal Sentence Embeddings](https://aclanthology.info/papers/C18-1209/c18-1209) /
   [issue](#) /
@@ -19,7 +19,7 @@ ACL2018読み会のログ
   [issue](#) /
   [slide](#)
   - [On Adversarial Examples for Character-Level Neural Machine Translation](https://aclanthology.info/papers/C18-1055/c18-1055) /
-  [issue](#) /
+  [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/29) /
   [slide](#)
   - [Multi-Task Neural Models for Translating Between Styles Within and Across Languages](https://aclanthology.info/papers/C18-1086/c18-1086) /
   [issue](#) /
@@ -31,7 +31,7 @@ ACL2018読み会のログ
   [issue](#) /
   [slide](#)
   - [Multimodal Grounding for Language Processing](https://aclanthology.info/papers/C18-1197/c18-1197) /
-  [issue](#) /
+  [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/28) /
   [slide](#)
   - [Modeling Multi-turn Conversation with Deep Utterance Aggregation](https://aclanthology.info/papers/C18-1317/c18-1317) /
   [issue](#) /
