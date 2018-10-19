@@ -4,7 +4,8 @@ NAACL2018読み会のログ
    [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/2) /
    [slide](https://speakerdeck.com/onilab/lun-shao-self-attentive-residual-decoder-for-neural-machine-translation)
 - Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer /
-   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/13)
+   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/13) /
+   [slide](https://speakerdeck.com/onilab/delete-retrieve-generate-a-simple-approach-to-sentiment-and-style-transfer)
 - Querying Word Embeddings for Similarity and Relatedness /
    [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/1) /
    [slide](https://speakerdeck.com/onilab/lun-shao-queryingword-embeddings-for-similarity-and-relatedness)
