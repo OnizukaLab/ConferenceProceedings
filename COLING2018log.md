@@ -27,8 +27,8 @@ ACL2018読み会のログ
   - [Learning Word Meta-Embeddings by Autoencoding](https://aclanthology.info/papers/C18-1140/c18-1140) /
   [issue](#) /
   [slide](#)
-  - [Variational Attention for Sequence-to-Sequence Models](https://aclanthology.info/papers/C18-1142/c18-1142) /
-  [issue](#) /
+  - [Learning Semantic Sentence Embeddings using Sequential Pair-wise Discriminator](https://aclanthology.info/papers/C18-1230/c18-1230) /
+  [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/37) /
   [slide](#)
   - [Multimodal Grounding for Language Processing](https://aclanthology.info/papers/C18-1197/c18-1197) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/28) /
