@@ -10,7 +10,7 @@ ACL2018読み会のログ
   [issue](#) /
   [slide](#)
   - [A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation](https://aclanthology.info/papers/C18-1054/c18-1054) /
-  [issue](#39) /
+  [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/39) /
   [slide](https://www.researchgate.net/publication/327891524_A_Comparison_of_Transformer_and_Recurrent_Neural_Networks_on_Multilingual_Neural_Machine_Translation)
   - [SGM: Sequence Generation Model for Multi-label Classification](https://aclanthology.info/papers/C18-1330/c18-1330) /
   [issue](#) /
