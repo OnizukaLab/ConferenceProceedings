@@ -4,7 +4,7 @@ ACL2018読み会のログ
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/27) /
   [slide](#)
   - [Convolutional Neural Network for Universal Sentence Embeddings](https://aclanthology.info/papers/C18-1209/c18-1209) /
-  [issue](#) /
+  [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/36) /
   [slide](#)
   - [Dynamic Multi-Level Multi-Task Learning for Sentence Simplification](https://aclanthology.info/papers/C18-1039/c18-1039) /
   [issue](#) /
