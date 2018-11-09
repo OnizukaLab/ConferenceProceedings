@@ -35,7 +35,7 @@ ACL2018読み会のログ
   [slide](https://speakerdeck.com/onilab/multimodal-grounding-for-language-processing)
   - [Modeling Multi-turn Conversation with Deep Utterance Aggregation](https://aclanthology.info/papers/C18-1317/c18-1317) /
   [issue](#) /
-  [slide](#)
+  [slide](https://speakerdeck.com/onilab/modeling-multi-turn-conversation-with-deep-utterance-aggregation)
   - [deepQuest: A Framework for Neural-based Quality Estimation](https://aclanthology.info/papers/C18-1266/c18-1266) /
   [issue](#) /
   [slide](#)
