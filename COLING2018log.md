@@ -14,7 +14,7 @@ ACL2018読み会のログ
   [slide](https://www.researchgate.net/publication/327891524_A_Comparison_of_Transformer_and_Recurrent_Neural_Networks_on_Multilingual_Neural_Machine_Translation)
   - [SGM: Sequence Generation Model for Multi-label Classification](https://aclanthology.info/papers/C18-1330/c18-1330) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/35) /
-  [slide](#)
+  [slide](https://speakerdeck.com/onilab/sgm-sequence-generation-model-for-multi-label-classification)
   - [Improving Neural Machine Translation by Incorporating Hierarchical Subword Features](https://aclanthology.info/papers/C18-1052/c18-1052) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/40) /
   [slide](#)
@@ -29,7 +29,7 @@ ACL2018読み会のログ
   [slide](#)
   - [Learning Semantic Sentence Embeddings using Sequential Pair-wise Discriminator](https://aclanthology.info/papers/C18-1230/c18-1230) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/37) /
-  [slide](#)
+  [slide](https://speakerdeck.com/onilab/learning-semantic-sentence-embeddings-using-pair-wise-discriminator)
   - [Multimodal Grounding for Language Processing](https://aclanthology.info/papers/C18-1197/c18-1197) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/28) /
   [slide](https://speakerdeck.com/onilab/multimodal-grounding-for-language-processing)
