@@ -2,7 +2,7 @@ ACL2018読み会のログ
 #### 論文リスト:
   - [Personalizing Lexical Simplification](https://aclanthology.info/papers/C18-1019/c18-1019) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/27) /
-  [slide](#)
+  [slide](https://speakerdeck.com/onilab/personalizing-lexical-simplification)
   - [Convolutional Neural Network for Universal Sentence Embeddings](https://aclanthology.info/papers/C18-1209/c18-1209) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/36) /
   [slide](#)
