@@ -41,4 +41,4 @@ ACL2018読み会のログ
   [slide](#)
   - [Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering](https://aclanthology.info/papers/C18-1328/c18-1328) /
   [issue](#) /
-  [slide](#)
+  [slide](https://speakerdeck.com/onilab/neural-network-models-for-paraphrase-identification-semantic-textual-similarity-natural-language-inference-and-question-answering)
