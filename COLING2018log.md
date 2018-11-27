@@ -1,4 +1,4 @@
-ACL2018読み会のログ
+COLING2018読み会のログ
 #### 論文リスト:
   - [Personalizing Lexical Simplification](https://aclanthology.info/papers/C18-1019/c18-1019) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/27) /
@@ -8,7 +8,7 @@ ACL2018読み会のログ
   [slide](#)
   - [Dynamic Multi-Level Multi-Task Learning for Sentence Simplification](https://aclanthology.info/papers/C18-1039/c18-1039) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/31) /
-  [slide](#)
+  [slide](https://speakerdeck.com/onilab/dynamic-multi-level-multi-task-learning-for-sentence-simplification)
   - [A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation](https://aclanthology.info/papers/C18-1054/c18-1054) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/39) /
   [slide](https://www.researchgate.net/publication/327891524_A_Comparison_of_Transformer_and_Recurrent_Neural_Networks_on_Multilingual_Neural_Machine_Translation)
@@ -26,7 +26,7 @@ ACL2018読み会のログ
   [slide](#)
   - [Learning Word Meta-Embeddings by Autoencoding](https://aclanthology.info/papers/C18-1140/c18-1140) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/30) /
-  [slide](#)
+  [slide](https://speakerdeck.com/onilab/learning-word-meta-embeddings-by-autoencoding)
   - [Learning Semantic Sentence Embeddings using Sequential Pair-wise Discriminator](https://aclanthology.info/papers/C18-1230/c18-1230) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/37) /
   [slide](https://speakerdeck.com/onilab/learning-semantic-sentence-embeddings-using-pair-wise-discriminator)
