@@ -1,5 +1,5 @@
 # ConferenceProceedings
-NLP 会議の論文をみんなで読みます．読んで，10分+で発表して，天使度悪魔度グラフに論文をマッピングします．
+NLP 会議の論文をみんなで読みます．読んで，10分+で発表します．
 
 ## やり方
 https://github.com/arXivTimes/arXivTimes のやり方を真似ます．
