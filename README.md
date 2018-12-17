@@ -5,6 +5,8 @@ NLP 会議の論文をみんなで読みます．読んで，10分+で発表し�
 https://github.com/arXivTimes/arXivTimes のやり方を真似ます．
 
 ## ログ
+天使度悪魔度グラフは非公開としております．見たいかたは [@NomotoEriko](https://github.com/NomotoEriko) までご連絡くださいませ．
+
 ### 第一回：NAACL2018 
  [論文リスト](https://github.com/OnizukaLab/ConferenceProceedings/blob/master/NAACL2018log.md)
  
