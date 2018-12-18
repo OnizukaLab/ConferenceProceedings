@@ -4,38 +4,38 @@
   [issue](#50) /
   [slide](#)
  - [Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints](https://aclanthology.info/papers/D18-1431/d18-1431) /
-  [issue](#) /
+  [issue](#53) /
   [slide](#)
  - [An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation](https://aclanthology.info/papers/D18-1075/d18-1075) /
-  [issue](#) /
+  [issue](#47) /
   [slide](#)
  - [A Word-Complexity Lexicon and A Neural Readability Ranking Model for Lexical Simplification](https://aclanthology.info/papers/D18-1410/d18-1410) /
-  [issue](#) /
+  [issue](#45) /
   [slide](#)
  - [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://aclanthology.info/papers/D18-1355/d18-1355) /
-  [issue](#) /
+  [issue](#51) /
   [slide](#)
  - [Card-660: A Reliable Evaluation Framework for Rare Word Representation Models](https://aclanthology.info/papers/D18-1169/d18-1169) /
-  [issue](#) /
-  [slide](#)
+  [issue](#52) /
+  [slide](https://speakerdeck.com/onilab/card-660-a-reliable-evaluation-framework-for-rare-word-representation-models)
  - [How Much Reading Does Reading Comprehension Require? A Critical Investigation of Popular Benchmarks](https://aclanthology.info/papers/D18-1546/d18-1546) /
-  [issue](#) /
+  [issue](#44) /
   [slide](#)
  - [Phrase-Based & Neural Unsupervised Machine Translation](https://aclanthology.info/papers/D18-1549/d18-1549) /
-  [issue](#) /
-  [slide](#)
+  [issue](#42) /
+  [slide](https://speakerdeck.com/onilab/phrase-based-and-neural-unsupervised-machine-translation)
  - [Tell-and-Answer: Towards Explainable Visual Question Answering using Attributes and Captions](https://aclanthology.info/papers/D18-1164/d18-1164) /
-  [issue](#) /
-  [slide](#)
+  [issue](#41) /
+  [slide](https://speakerdeck.com/onilab/tell-and-answer-towards-explainable-visual-question-answering-using-attributes-and-captions)
  - [Structured Multi-Label Biomedical Text Tagging via Attentive Neural Tree Decoding](https://aclanthology.info/papers/D18-1308/d18-1308) /
-  [issue](#) /
+  [issue](#46) /
   [slide](#)
  - [BLEU is Not Suitable for the Evaluation of Text Simplification](https://aclanthology.info/papers/D18-1081/d18-1081) /
-  [issue](#) /
+  [issue](#49) /
   [slide](#)
  - [Automatic Poetry Generation with Mutual Reinforcement Learning](https://aclanthology.info/papers/D18-1353/d18-1353) /
   [issue](#) /
   [slide](#)
  - [Rapid Adaptation of Neural Machine Translation to New Languages](https://aclanthology.info/papers/D18-1103/d18-1103) /
-  [issue](#) /
+  [issue](#43) /
   [slide](#)
