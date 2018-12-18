@@ -1,7 +1,7 @@
  EMNLP2018読み会のログ
 #### 論文リスト:
  - [Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation](https://aclanthology.info/papers/D18-1342/d18-1342) /
-  [issue](#) /
+  [issue](#50) /
   [slide](#)
  - [Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints](https://aclanthology.info/papers/D18-1431/d18-1431) /
   [issue](#) /
