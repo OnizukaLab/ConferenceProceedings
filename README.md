@@ -21,3 +21,8 @@ https://github.com/arXivTimes/arXivTimes のやり方を真似ます．
  [論文リスト](https://github.com/OnizukaLab/ConferenceProceedings/blob/master/COLING2018log.md)
  
  [天使度/悪魔度 グラフ](http://linoit.com/groups/GPOlabNLPer/canvases/COLING2018)
+
+### 第四回：EMNLP2018
+ [論文リスト](https://github.com/OnizukaLab/ConferenceProceedings/blob/master/EMNLP2018log.md)
+ 
+ [天使度/悪魔度 グラフ](http://linoit.com/groups/GPOlabNLPer/canvases/EMNLP2018)
