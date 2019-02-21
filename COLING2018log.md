@@ -5,7 +5,7 @@ COLING2018読み会のログ
   [slide](https://speakerdeck.com/onilab/personalizing-lexical-simplification)
   - [Convolutional Neural Network for Universal Sentence Embeddings](https://aclanthology.info/papers/C18-1209/c18-1209) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/36) /
-  [slide](#)
+  slide
   - [Dynamic Multi-Level Multi-Task Learning for Sentence Simplification](https://aclanthology.info/papers/C18-1039/c18-1039) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/31) /
   [slide](https://speakerdeck.com/onilab/dynamic-multi-level-multi-task-learning-for-sentence-simplification)
@@ -17,13 +17,13 @@ COLING2018読み会のログ
   [slide](https://speakerdeck.com/onilab/sgm-sequence-generation-model-for-multi-label-classification)
   - [Improving Neural Machine Translation by Incorporating Hierarchical Subword Features](https://aclanthology.info/papers/C18-1052/c18-1052) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/40) /
-  [slide](#)
+  slide
   - [On Adversarial Examples for Character-Level Neural Machine Translation](https://aclanthology.info/papers/C18-1055/c18-1055) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/29) /
   [slide](https://speakerdeck.com/onilab/on-adversarial-example-for-character-level-neural-machine-translation)
   - [Multi-Task Neural Models for Translating Between Styles Within and Across Languages](https://aclanthology.info/papers/C18-1086/c18-1086) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/38) /
-  [slide](#)
+  slide
   - [Learning Word Meta-Embeddings by Autoencoding](https://aclanthology.info/papers/C18-1140/c18-1140) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/30) /
   [slide](https://speakerdeck.com/onilab/learning-word-meta-embeddings-by-autoencoding)
@@ -38,7 +38,7 @@ COLING2018読み会のログ
   [slide](https://speakerdeck.com/onilab/modeling-multi-turn-conversation-with-deep-utterance-aggregation)
   - [deepQuest: A Framework for Neural-based Quality Estimation](https://aclanthology.info/papers/C18-1266/c18-1266) /
   [issue](https://github.com/OnizukaLab/ConferenceProceedings/issues/33) /
-  [slide](#)
+  slide
   - [Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering](https://aclanthology.info/papers/C18-1328/c18-1328) /
   issue /
   [slide](https://speakerdeck.com/onilab/neural-network-models-for-paraphrase-identification-semantic-textual-similarity-natural-language-inference-and-question-answering)
